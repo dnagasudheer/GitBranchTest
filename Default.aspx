@@ -11,6 +11,7 @@
     <div>
          <h1>This is my new test project for git branch</h1>
          <h1>This is my First branch test</h1>
+         <h2>This is my First branch 2nd test</h2>
     </div>
     </form>
 </body>
